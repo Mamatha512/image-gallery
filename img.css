@@ -1,0 +1,212 @@
+body{
+    background-image: url('pic.jpg');
+    background-size: cover;
+}
+.para{
+    font-size: 70px;
+    padding-left: 390px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    background-color: rgb(249, 167, 245);
+}
+.in{
+    margin-left: 410px;
+    padding-left: 30px;
+    padding-right: 350px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    border: none;
+    border-radius: 30px;
+    font-size: large;
+    vertical-align: top;
+    margin-top: 10px;
+}
+.in:hover{
+    box-shadow: 5px 5px 3px rgba(43, 35, 35, 0.5);
+}
+.search{
+    width: 55px;
+    height: 55px;
+    object-fit: cover;
+    vertical-align: top;
+    border-radius: 20px;
+    margin-top: 12px;
+}
+.search:hover{
+    opacity: 0.9;
+    box-shadow: 5px 5px 3px rgba(38, 34, 34, 0.5);
+}
+.a{
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+    margin-left: 30px;
+}
+.amazon{
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    margin-top: 50px;
+    cursor: pointer;
+    display: inline-block;
+}
+.amazon:hover{
+    box-shadow: 4px 4px  3px rgba(121, 242, 97, 0.956);
+}
+.ama{
+    display: block;
+    margin-left: 80px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    background-color: rgb(95, 247, 247);
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    border:none;
+    border-radius: 15px;
+    cursor: pointer;
+    box-shadow: 3px 3px 3px rgba(43, 40, 40, 0.5);
+    transition: box-shadow 0.15s;
+}
+.ama:hover{
+    box-shadow: 4px 4px 3px rgba(68, 89, 252, 0.956);
+}
+.b{
+    display: inline-block;
+    width: 300px;
+    margin-left: 30px;
+    vertical-align: top;
+}
+.flipkart{
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    margin-top: 50px;
+    display: inline-block;
+    cursor: pointer;
+}
+.flipkart:hover{
+    box-shadow: 4px 4px  3px rgba(146, 246, 126, 0.956);
+}
+.flip{
+    display: block;
+    margin-left: 80px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    background-color: aqua;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    border:none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.flip:hover{
+    box-shadow: 4px 4px 3px rgba(90, 107, 234, 0.956);
+}
+.c{
+    display: inline-block;
+    width: 300px;
+    margin-left: 30px;
+    vertical-align: top;
+}
+.meesho{
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    margin-top: 50px;
+    cursor: pointer;
+}
+.meesho:hover{
+    box-shadow: 4px 4px  3px rgba(151, 253, 130, 0.956);
+}
+.mee{
+    display: block;
+    margin-left: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    background-color: aqua;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    border:none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.mee:hover{
+    box-shadow: 4px 4px 3px rgba(93, 112, 253, 0.956);
+}
+.d{
+    display: inline-block;
+    width: 500px;
+    margin-left: 30px;
+    vertical-align: top;
+}
+.swiggy{
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    margin-top: 100px;
+    cursor: pointer;
+}
+.swiggy:hover{
+    box-shadow: 4px 4px  3px rgba(135, 254, 111, 0.956);
+}
+.swi{
+    display: block;
+    margin-left: 80px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    background-color: aqua;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    border:none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.swi:hover{
+    box-shadow: 4px 4px 3px rgba(95, 112, 246, 0.956);
+}
+.e{
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+    margin-left: 30px;
+}
+.myntra{
+    width: 350px;
+    height: 200px;
+    object-fit: cover;
+    margin-top: 100px;
+    cursor: pointer;
+}
+.myntra:hover{
+    box-shadow: 4px 4px  3px rgba(134, 251, 111, 0.956);
+}
+.myn{
+    display: block;
+    margin-left: 110px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    background-color: aqua;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    border:none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.myn:hover{
+    box-shadow: 4px 4px 3px rgba(91, 109, 242, 0.956);
+}
